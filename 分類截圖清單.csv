@@ -1,0 +1,41 @@
+﻿交易或控制ID,日期,店家,記帳額（含待核）,幣別,分類,備註
+S01,2026-09-25,Bónus,6221,ISK,與大家均分,採買隔天早餐
+S02,2026-09-26,Friðheimar,52890,ISK,與大家均分,番茄農場
+S03,2026-09-26,SKÁL!,129700,ISK,與大家均分,晚餐
+S04,2026-09-27,Skógafoss Bistro Bar,51100,ISK,與大家均分,午餐
+S05,2026-09-27,Krónan,16458,ISK,與大家均分,採買晚餐食材
+S06,2026-09-29,Pakkhús,117250,ISK,與大家均分,晚餐
+S07,2026-09-30,Hafnarbúðin,36420,ISK,與大家均分,午餐
+S08,2026-09-30,Kaffi Hornið,70080,ISK,與大家均分,晚餐
+S09,2026-10-01,Bónus,16917,ISK,與大家均分,採買
+S10,2026-10-02,Vogarjós,99530,ISK,與大家均分,午餐；店名依截圖，可能為 Vogafjós，待原照確認
+S11,2026-10-02,Strikið Restaurant & Bar,107540,ISK,與大家均分,晚餐
+S12,2026-10-03,Bláa Kannan (Akureyri),13630,ISK,與大家均分,早午餐
+S13,2026-10-03,Krónan Akureyri,33261,ISK,與大家均分,超市採買
+S14,2026-10-04,Krónan Akureyri,6421,ISK,與大家均分,超市採買
+S15,2026-10-05,"65° Úbúntu, Grundarfjörður",79400,ISK,與大家均分,午餐
+S16,2026-10-06,BARA bistró,52860,ISK,與大家均分,午餐（兩桌）
+S17,2026-10-06,Bao Bite,28060,ISK,與大家均分,晚餐
+S18,2026-10-07,Mokka Kaffi,10555,ISK,與大家均分,下午茶
+P01,2026-09-26,杜拜機場咖啡,36,AED,朱&Kent自付,咖啡
+P02,2026-09-26,早上路邊停車費 P2,100,ISK,朱&Kent自付,停車
+P03,2026-09-26,Geysir Bistro,6560,ISK,朱&Kent自付,午餐：漢堡薯條＋雞肉沙拉
+P04,2026-09-26,晚餐路邊停車費 P1,100,ISK,朱&Kent自付,停車
+P05,2026-09-28,Plane Wreck Shuttle,13600,ISK,朱&Kent自付,接駁費用
+P06,2026-09-28,Black Crust Pizzeria,25660,ISK,朱&Kent自付,午餐
+P07,2026-09-29,Eyðimörk | Skaftafell,6700,ISK,朱&Kent自付,午餐
+P08,2026-10-01,Café Sumarlína,12350,ISK,朱&Kent自付,午餐
+P09,2026-10-02,Vínbúðin Akureyri,3248,ISK,朱&Kent自付,共三瓶酒（依截圖；各酒款與單價待補）
+P10,2026-10-02,Fjallakaffi - Fjalladýrð,799,ISK,朱&Kent自付,咖啡
+P11,2026-10-03,Viking,8990,ISK,朱&Kent自付,巧克力10枚（依截圖）
+P12,2026-10-04,Krónan Akureyri,2849,ISK,朱&Kent自付,超市採買
+P13,2026-10-06,Skólavörðustígur 12 & Viking,4579,ISK,朱&Kent自付,伴手禮：行李吊牌／紀念品／襪子；可能含多筆交易，待補
+P14,2026-10-07,Brauð & Co,2550,ISK,朱&Kent自付,早餐
+P15,2026-10-07,Omnom,4950,ISK,朱&Kent自付,巧克力；刷卡憑證疑似重複，原照不可取得，暫僅保留截圖一筆
+P16,2026-10-07,Epal,43800,ISK,朱&Kent自付,knot cushion
+P17,2026-10-08,Orkan Fitjar,10840,ISK,朱&Kent自付,加油
+P18,2026-10-08,Bónus,2902,ISK,朱&Kent自付,採買
+P19,2026-10-08,Just Wingin’ It & SSP Iceland ehf. | Point Landside,23082,ISK,朱&Kent自付,晚餐；合併控制額
+P20,2026-10-09,YO! Heathrow T3 & Caffè Nero,22.1,GBP,朱&Kent自付,餐點與咖啡；合併控制額
+P21,2026-10-10,Dubai Duty Free＋Treehouse Juicery,172,AED,朱&Kent自付,截圖原註：Dubai Duty Free 巧克力 & 咖啡；咖啡實際店家為 Treehouse
+U01,2026-09-28,Krónan Vík,9648,ISK,與大家均分,更正分類截圖新增；原收據實額9548，截圖多100。
